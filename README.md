@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**MattHirko/MattHirko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Matthew Hirko
+### Senior Windows & Azure Infrastructure Engineer
+Tallahassee, FL | 10+ years enterprise IT | AZ-104 (in progress) | MD-102 (in progress)
+## What I Work On
+- Hybrid Active Directory and Azure Entra ID environments
+- Intune endpoint management: compliance, configuration, and security policies
+- PowerShell automation for identity and endpoint operations
+- Azure governance: RBAC, Policy, and monitoring
+## Certifications
+- Microsoft AZ-104: Azure Administrator Associate (in study)
+- Microsoft MD-102: Endpoint Administrator (in study)
+## Featured Projects
+- **[Hybrid AD + Entra Connect Lab]** — Full hybrid identity environment
+- **[Intune Policy Library]** — Enterprise endpoint policy documentation
+- **[PowerShell Scripts]** — AD and Azure automation toolkit
+## Connect
+LinkedIn: linkedin.com/in/matthirko | Email: hirko.matt@gmail.com
